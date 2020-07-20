@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BD29B607-5209-4AC7-9362-C774F3EB366A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp.Native.iOS/Main.cs">
+    <Files>
+      <File FileName="SampleApp.Native.iOS/Main.cs" Line="26" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarin-chat-sdk" expanded="True">
+            <Node name="SampleApp.Native.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Native.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB48F67B-3F77-42F8-BD0F-A5DA422FA1AF" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
