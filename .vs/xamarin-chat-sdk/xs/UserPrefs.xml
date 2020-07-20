@@ -1,24 +1,27 @@
-﻿<Properties StartupConfiguration="{BD29B607-5209-4AC7-9362-C774F3EB366A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp.Native.iOS/Main.cs">
+﻿<Properties StartupConfiguration="{70B3DC59-DA0E-4447-84E9-92C93FBE859D}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Native.Android PreferredExecutionTarget="Android.52000e8af02c55f3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/10.3.1.4/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
     <Files>
-      <File FileName="SampleApp.Native.iOS/Main.cs" Line="26" Column="2" />
+      <File FileName="SampleApp.Native.iOS/Main.cs" Line="2" Column="19" />
+      <File FileName="SampleApp.Native.Android/MainActivity.cs" Line="18" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1881" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="xamarin-chat-sdk" expanded="True">
-            <Node name="SampleApp.Native.iOS" expanded="True">
+            <Node name="SampleApp.Native.Android" expanded="True" selected="True">
               <Node name="References" expanded="True" />
-              <Node name="Main.cs" selected="True" />
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SampleApp.Native.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB48F67B-3F77-42F8-BD0F-A5DA422FA1AF" />
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Native.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB48F67B-3F77-42F8-BD0F-A5DA422FA1AF" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
