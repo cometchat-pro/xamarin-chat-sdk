@@ -57,96 +57,96 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Numerics.Vectors" />
-    <Reference Include="androidJscWrapper">
-      <HintPath>..\..\android\sdks\dependencies\androidJscWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="annotationWrapper">
-      <HintPath>..\..\android\sdks\dependencies\annotationWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="commonsLangWrapper">
-      <HintPath>..\..\android\sdks\dependencies\commonsLangWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="disklrucacheWrapper">
-      <HintPath>..\..\android\sdks\dependencies\disklrucacheWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="duktapeWrapper">
-      <HintPath>..\..\android\sdks\dependencies\duktapeWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="glidecoderWrapper">
-      <HintPath>..\..\android\sdks\dependencies\glidecoderWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="glideWrapper">
-      <HintPath>..\..\android\sdks\dependencies\glideWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="imWrapper">
-      <HintPath>..\..\android\sdks\dependencies\imWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="jistimeetWrapper">
-      <HintPath>..\..\android\sdks\dependencies\jistimeetWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="jxmppUtilWrapper">
-      <HintPath>..\..\android\sdks\dependencies\jxmppUtilWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="kxmlWrapper">
-      <HintPath>..\..\android\sdks\dependencies\kxmlWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="materialWrapper">
-      <HintPath>..\..\android\sdks\dependencies\materialWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="minidnsWrapper">
-      <HintPath>..\..\android\sdks\dependencies\minidnsWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="navigationUIWrapper">
-      <HintPath>..\..\android\sdks\dependencies\navigationUIWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="okhttpconnectionWrapper">
-      <HintPath>..\..\android\sdks\dependencies\okhttpconnectionWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="okhttpWrapper">
-      <HintPath>..\..\android\sdks\dependencies\okhttpWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="okioWrapper">
-      <HintPath>..\..\android\sdks\dependencies\okioWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="ReactNativeWrapper">
-      <HintPath>..\..\android\sdks\dependencies\ReactNativeWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="shimmerWrapper">
-      <HintPath>..\..\android\sdks\dependencies\shimmerWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackAndroidWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackAndroidWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackCoreWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackCoreWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackExperWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackExperWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackExtensionWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackExtensionWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackResolverWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackResolverWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackSaslWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackSaslWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="smackTcpWrapper">
-      <HintPath>..\..\android\sdks\dependencies\smackTcpWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="timberWrapper">
-      <HintPath>..\..\android\sdks\dependencies\timberWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="transitionWrapper">
-      <HintPath>..\..\android\sdks\dependencies\transitionWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="viewpager2Wrapper">
-      <HintPath>..\..\android\sdks\dependencies\viewpager2Wrapper.dll</HintPath>
-    </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="CometChatPro">
-      <HintPath>..\..\android\sdks\CometChatPro.dll</HintPath>
+      <HintPath>..\sdks\android\CometChatPro.dll</HintPath>
+    </Reference>
+    <Reference Include="androidJscWrapper">
+      <HintPath>..\sdks\android\dependencies\androidJscWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="annotationWrapper">
+      <HintPath>..\sdks\android\dependencies\annotationWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="commonsLangWrapper">
+      <HintPath>..\sdks\android\dependencies\commonsLangWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="disklrucacheWrapper">
+      <HintPath>..\sdks\android\dependencies\disklrucacheWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="duktapeWrapper">
+      <HintPath>..\sdks\android\dependencies\duktapeWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="glidecoderWrapper">
+      <HintPath>..\sdks\android\dependencies\glidecoderWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="glideWrapper">
+      <HintPath>..\sdks\android\dependencies\glideWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="imWrapper">
+      <HintPath>..\sdks\android\dependencies\imWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="jistimeetWrapper">
+      <HintPath>..\sdks\android\dependencies\jistimeetWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="jxmppUtilWrapper">
+      <HintPath>..\sdks\android\dependencies\jxmppUtilWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="kxmlWrapper">
+      <HintPath>..\sdks\android\dependencies\kxmlWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="materialWrapper">
+      <HintPath>..\sdks\android\dependencies\materialWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="minidnsWrapper">
+      <HintPath>..\sdks\android\dependencies\minidnsWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="navigationUIWrapper">
+      <HintPath>..\sdks\android\dependencies\navigationUIWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="okhttpconnectionWrapper">
+      <HintPath>..\sdks\android\dependencies\okhttpconnectionWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="okhttpWrapper">
+      <HintPath>..\sdks\android\dependencies\okhttpWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="okioWrapper">
+      <HintPath>..\sdks\android\dependencies\okioWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="ReactNativeWrapper">
+      <HintPath>..\sdks\android\dependencies\ReactNativeWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="shimmerWrapper">
+      <HintPath>..\sdks\android\dependencies\shimmerWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackAndroidWrapper">
+      <HintPath>..\sdks\android\dependencies\smackAndroidWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackCoreWrapper">
+      <HintPath>..\sdks\android\dependencies\smackCoreWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackExperWrapper">
+      <HintPath>..\sdks\android\dependencies\smackExperWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackExtensionWrapper">
+      <HintPath>..\sdks\android\dependencies\smackExtensionWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackResolverWrapper">
+      <HintPath>..\sdks\android\dependencies\smackResolverWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackSaslWrapper">
+      <HintPath>..\sdks\android\dependencies\smackSaslWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="smackTcpWrapper">
+      <HintPath>..\sdks\android\dependencies\smackTcpWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="timberWrapper">
+      <HintPath>..\sdks\android\dependencies\timberWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="transitionWrapper">
+      <HintPath>..\sdks\android\dependencies\transitionWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="viewpager2Wrapper">
+      <HintPath>..\sdks\android\dependencies\viewpager2Wrapper.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

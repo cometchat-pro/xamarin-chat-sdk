@@ -1,19 +1,16 @@
 ﻿<Properties StartupConfiguration="{70B3DC59-DA0E-4447-84E9-92C93FBE859D}|Default">
   <MonoDevelop.Ide.ItemProperties.SampleApp.Native.Android PreferredExecutionTarget="Android.52000e8af02c55f3" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/10.3.1.4/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp.Native.iOS/Main.cs">
     <Files>
       <File FileName="SampleApp.Native.iOS/Main.cs" Line="2" Column="19" />
-      <File FileName="SampleApp.Native.Android/MainActivity.cs" Line="18" Column="1" />
-      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1881" Column="5" />
+      <File FileName="SampleApp.Native.Android/MainActivity.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="xamarin-chat-sdk" expanded="True">
-            <Node name="SampleApp.Native.Android" expanded="True" selected="True">
-              <Node name="References" expanded="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
+            <Node name="SampleApp.Native.Android" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

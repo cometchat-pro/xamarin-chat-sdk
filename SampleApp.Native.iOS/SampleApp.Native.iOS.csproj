@@ -66,8 +66,8 @@
         <Reference Include="Xamarin.iOS" />
         <Reference Include="System.Numerics" />
         <Reference Include="System.Numerics.Vectors" />
-        <Reference Include="CometChatPro">
-          <HintPath>..\..\CometChatPro.dll</HintPath>
+        <Reference Include="CometChatProSdk">
+          <HintPath>..\sdks\ios\CometChatProSdk.dll</HintPath>
         </Reference>
     </ItemGroup>
     <ItemGroup>
