@@ -5,7 +5,7 @@ Voice &amp; Video Calling and Text Chat SDK for Xamarin
 
 ## iOS
 
-Step 1: Create a blank project “SampleApp.Native.iOS”
+Step 1: Create a blank project “ios_test_app”
 
 Step 2: Add CometChatPro SDK to References
 
