@@ -1,7 +1,7 @@
 # Xamarin Chat SDK
 Voice &amp; Video Calling and Text Chat SDK for Xamarin
 
-**This SDK is currently in pre-alpha stage with limited to no support.**
+**This SDK is currently in alpha stage with limited to no support.**
 
 ## iOS
 
